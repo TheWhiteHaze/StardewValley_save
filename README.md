@@ -1,4 +1,4 @@
-<center>StardewValleySaved</center>
+<div align=center>StardewValleySaved</div>
 
 ## Day1
 **9.15 第 1 年春 22 日**
