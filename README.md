@@ -1,4 +1,8 @@
-# <div align=center>StardewValleySaved</div>
+<div align="center">
+
+<img alt="LOGO" src="./img/main logo.png" width="256" height="256" />
+# StardewValley
+</div>
 
 ## Day1
 **9.15 第 1 年春 22 日**
